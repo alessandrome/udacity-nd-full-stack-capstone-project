@@ -1,0 +1,4 @@
+[submodule "backend"]
+	url = https://github.com/alessandrome/udacity-nd-full-stack-capstone-project-backend.git
+[submodule "frontend"]
+	url = https://github.com/alessandrome/udacity-nd-full-stack-capstone-project-frontend.git
